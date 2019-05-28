@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>哎呦~！您访问的页面不在地球上 - STU-WROK.com</title>
+<link href="/404/css/style.css" rel="stylesheet" type="text/css"  media="all" />
+	</head>
+	<body>
+		<!--start-wrap--->
+		<div class="wrap">
+			<!---start-header---->
+				
+			<!---End-header---->
+			<!--start-content------>
+			<div class="content">
+				<img src="/404/images/error-img.png" title="error" />
+				<p><span><label></label>哎呦.....</span>您访问的页面不在地球上......</p>
+				<a href="/">返回首页</a>
+				<div class="copy-right">
+					<p> Designed by <a href="http://www.stu-work.com/">STU-WORK 网页设计</a></p>
+				</div>
+   			</div>
+			<!--End-Cotent------>
+		</div>
+		<!--End-wrap--->
+	</body>
+</html>
+
